@@ -13,7 +13,6 @@ data/
 
 # Plots / outputs
 outputs/
-*.png
 *.pdf
 
 # OS
