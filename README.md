@@ -24,6 +24,7 @@ robotics-state-estimation-planning-learning/
 ├── GMM-GMR/
 ├── assets/
 │ └── figures/
+├── data/
 └── README.md
 
 
@@ -61,6 +62,7 @@ Probabilistic learning using Gaussian Mixture Models and Gaussian Mixture Regres
 
 - Large datasets are not included to keep the repository lightweight.
 - Each project README documents expected data formats and outputs.
+- Data can be found at http://asrl.utias.utoronto.ca/datasets/mrclam/index.html
 
 ---
 
