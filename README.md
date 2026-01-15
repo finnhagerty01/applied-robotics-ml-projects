@@ -17,16 +17,17 @@ Together, they reflect a systems-level view of robotics rather than isolated alg
 ---
 
 ## Repository Structure
-'''
+```text
 robotics-state-estimation-planning-learning/
 ├── UKF/
 ├── Astar-Heuristic/
 ├── GMM-GMR/
 ├── assets/
-│ └── figures/
+│   └── figures/
 ├── data/
 └── README.md
-'''
+```
+
 
 Each project folder contains:
 - a standalone implementation
