@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Data & logs
+data/
+*.csv
+*.npy
+*.npz
+*.pkl
+*.log
+
+# Plots / outputs
+outputs/
+*.png
+*.pdf
+
+# OS
+.DS_Store
